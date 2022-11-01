@@ -1,2 +1,2 @@
 # Challenge-Chapter-3
-Ini merupakan repository untuk mengumpulkan challenge di chapter 3. Tolong jangan merge master ya!
+This repository is a copied file from my branch in Binar Academy's Challenge-Chapter-3 repository.
